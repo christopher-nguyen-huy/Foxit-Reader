@@ -1,0 +1,49 @@
+For V7
+Uninstall FoxitCloud
+Ressource hacker the executable
+File
+	Change skin
+Accessiblity
+	Color scheme
+Commenting
+	Disable Click to create annotation
+Document
+	Allow multiple instances
+File Associations
+	Disable check when starting
+Forms
+	Disable Autocomplete
+FoxitCloud
+	Disable Cloud tab
+Full Screen
+	Disable One page at a time
+	Disable Show exit button
+	Ignore all transitions
+General
+	Disable Make hand tool select text
+	Disable start page
+	Disable advertisement
+History
+	Disable Restore last session
+	Disable Restore last view
+	Max number of docs in recent docs : 10
+Page Display
+	Forbid zoom change when using goto
+Speech
+	Disable Read comments
+Spelling
+	Disable spell check
+Tablet settings
+	Disable pressure sensitive
+Trust Manager
+	Disable js
+Updater
+	Disable
+	
+Empty Quick Access Toolbar
+Customize Ribbon
+	Remove Tabs
+		Protect
+		Share
+		Comment
+
