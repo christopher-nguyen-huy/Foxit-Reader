@@ -1,5 +1,5 @@
 For V7
-Uninstall FoxitCloud
+# Uninstall FoxitCloud
 Ressource hacker the executable
 File
 	Change skin
@@ -46,4 +46,4 @@ Customize Ribbon
 		Protect
 		Share
 		Comment
-
+Minimize Ribbon
